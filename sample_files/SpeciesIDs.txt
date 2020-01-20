@@ -1,0 +1,106 @@
+00000.faa: /mnt/worksapce/Data/all/Acremonium_chrysogenum_ATCC_11550_protein.faa
+00001.faa: /mnt/worksapce/Data/all/Aspergillus flavus AF70_protein.faa
+00002.faa: /mnt/worksapce/Data/all/Aspergillus flavus CA14_protein.faa
+00003.faa: /mnt/worksapce/Data/all/Aspergillus flavus NRRL 118543_protein.faa
+00004.faa: /mnt/worksapce/Data/all/Aspergillus heteromorphus CBS 117.55_protein.faa
+00005.faa: /mnt/worksapce/Data/all/Aspergillus oryzae 3.042_protein.faa
+00006.faa: /mnt/worksapce/Data/all/Aspergillus oryzae BCC7051_protein.faa
+00007.faa: /mnt/worksapce/Data/all/Coccidioides immitis WA_211_protein.faa
+00008.faa: /mnt/worksapce/Data/all/Coccidioides posadasii C735 delta SOWgp_protein.faa
+00009.faa: /mnt/worksapce/Data/all/Coccidioides posadasii str. Silveira_protein.faa
+00010.faa: /mnt/worksapce/Data/all/Coccidioides_immitis_RS_protein.faa
+00011.faa: /mnt/worksapce/Data/all/Coccidioides_posadasii_RMSCC_3488_protein.faa
+00012.faa: /mnt/worksapce/Data/all/Coleophoma_crateriformis_BP5796_protein.faa
+00013.faa: /mnt/worksapce/Data/all/Fusarium proliferatum NRRL 62905_protein.faa
+00014.faa: /mnt/worksapce/Data/all/Fusarium_avenaceum_Fa05001_protein.faa
+00015.faa: /mnt/worksapce/Data/all/Fusarium_mangiferae_MRC7560_protein.faa
+00016.faa: /mnt/worksapce/Data/all/Fusarium_proliferatum_ET1_protein.faa
+00017.faa: /mnt/worksapce/Data/all/Grosmannia_clavigera_kw1407_protein.faa
+00018.faa: /mnt/worksapce/Data/all/Helicocarpus_griseus_UAMH5409_protein.faa
+00019.faa: /mnt/worksapce/Data/all/Hypoxylon sp. CI-4A_protein.faa
+00020.faa: /mnt/worksapce/Data/all/Hypoxylon sp. CO27-5_protein.faa
+00021.faa: /mnt/worksapce/Data/all/Hypoxylon sp. EC38_protein.faa
+00022.faa: /mnt/worksapce/Data/all/Lachnellula_suecica_CBS_268.59_protein.faa
+00023.faa: /mnt/worksapce/Data/all/Madurella_mycetomatis_mm55_protein.faa
+00024.faa: /mnt/worksapce/Data/all/Fusarium fujikuroi FSU48_protein.faa
+00025.faa: /mnt/worksapce/Data/all/Fusarium fujikuroi IMI 58289_protein.faa
+00026.faa: /mnt/worksapce/Data/all/Fusarium fujikuroi MRC2276_protein.faa
+00027.faa: /mnt/worksapce/Data/all/Fusarium fujikuroi SUX-10626_protein.faa
+00028.faa: /mnt/worksapce/Data/all/Fusarium proliferatum Fp_A8_protein.faa
+00029.faa: /mnt/worksapce/Data/all/Fusarium proliferatum ITEM 2341_protein.faa
+00030.faa: /mnt/worksapce/Data/all/Penicillium expansum d1_protein.faa
+00031.faa: /mnt/worksapce/Data/all/Penicillium_antarcticum_IBT_31811_protein.faa
+00032.faa: /mnt/worksapce/Data/all/Penicillium_expansum_MD-8_protein.faa
+00033.faa: /mnt/worksapce/Data/all/Penicillium_flavigenum_IBT_14082_protein.faa
+00034.faa: /mnt/worksapce/Data/all/Penicillium_freii_DAOM_242723_protein.faa
+00035.faa: /mnt/worksapce/Data/all/Penicillium_griseofulvum_PG3_protein.faa
+00036.faa: /mnt/worksapce/Data/all/Penicillium_italicum_PHI-1_protein.faa
+00037.faa: /mnt/worksapce/Data/all/Penicillium_nordicum_DAOMC_185683_protein.faa
+00038.faa: /mnt/worksapce/Data/all/Penicillium_rubens_Wisconsin_54-1255_protein.faa
+00039.faa: /mnt/worksapce/Data/all/Penicillium_subrubescens_CBS_132785_protein.faa
+00040.faa: /mnt/worksapce/Data/all/Penicillium_vulpinum_IBT_29486_protein.faa
+00041.faa: /mnt/worksapce/Data/all/Aspergillus parasiticus SU-1_protein.faa
+00042.faa: /mnt/worksapce/Data/all/Aspergillus sclerotioniger CBS 115572_protein.faa
+00043.faa: /mnt/worksapce/Data/all/Aspergillus thermomutatus HMR AF 39_protein.faa
+00044.faa: /mnt/worksapce/Data/all/Aspergillus_arachidicola_CBS_117610_protein.faa
+00045.faa: /mnt/worksapce/Data/all/Aspergillus_homomorphus_CBS_101889_protein.faa
+00046.faa: /mnt/worksapce/Data/all/Aspergillus_mulundensis_DSM 5745_protein.faa
+00047.faa: /mnt/worksapce/Data/all/Aspergillus_nidulans_FGSC_A4_protein.faa
+00048.faa: /mnt/worksapce/Data/all/Aspergillus_niger_ATCC_1015_protein.faa
+00049.faa: /mnt/worksapce/Data/all/Aspergillus_ruber_CBS_135680_protein.faa
+00050.faa: /mnt/worksapce/Data/all/Coleophoma_cylindrospora_BP6252_protein.faa
+00051.faa: /mnt/worksapce/Data/all/Fusarium fujikuroi FGSC 8932_protein.faa
+00052.faa: /mnt/worksapce/Data/all/Metarhizium anisopliae BRIP 53284_protein.faa
+00053.faa: /mnt/worksapce/Data/all/Trichoderma_parareesei_CBS_125925_protein.faa
+00054.faa: /mnt/worksapce/Data/all/Metarhizium anisopliae BRIP 53293_protein.faa
+00055.faa: /mnt/worksapce/Data/all/Metarhizium guizhouense ARSEF 977_protein.faa
+00056.faa: /mnt/worksapce/Data/all/Metarhizium robertsii ARSEF 23_protein.faa
+00057.faa: /mnt/worksapce/Data/all/metarhizium_anisopliae_arsef_549_protein.faa
+00058.faa: /mnt/worksapce/Data/all/Metarhizium_anisopliae_E6_protein.faa
+00059.faa: /mnt/worksapce/Data/all/metarhizium_brunneum_arsef 3297_protein.faa
+00060.faa: /mnt/worksapce/Data/all/Trichoderma harzianum CBS 226.95_protein.faa
+00061.faa: /mnt/worksapce/Data/all/Trichoderma harzianum T6776_protein.faa
+00062.faa: /mnt/worksapce/Data/all/Trichoderma harzianum Tr1_protein.faa
+00063.faa: /mnt/worksapce/Data/all/Trichoderma harzianum TR274_protein.faa
+00064.faa: /mnt/worksapce/Data/all/Trichoderma_citrinoviride_TUCIM_6016_protein.faa
+00065.faa: /mnt/worksapce/Data/all/Trichoderma_longibrachiatum_ATCC_18648_protein.faa
+00066.faa: /mnt/worksapce/Data/all/Phaeoacremonium_minimum_UCRPA7_protein.faa
+00067.faa: /mnt/worksapce/Data/all/Pseudogymnoascus sp. VKM F-4513_protein.faa
+00068.faa: /mnt/worksapce/Data/all/Pseudogymnoascus_destructans_20631-21_protein.faa
+00069.faa: /mnt/worksapce/Data/all/Stachybotrys chartarum IBT 40293_protein.faa
+00070.faa: /mnt/worksapce/Data/all/Stachybotrys chartarum IBT 7711_protein.faa
+00071.faa: /mnt/worksapce/Data/all/Stagonospora_sp_SRC1lsM3a_protein.faa
+00072.faa: /mnt/worksapce/Data/all/Talaromyces_atroroseus_IBT_11181_protein.faa
+00073.faa: /mnt/worksapce/Data/all/Talaromyces_stipitatus_ATCC_10500_protein.faa
+00074.faa: /mnt/worksapce/Data/all/Tolypocladium_ophioglossoides_CBS_100239_protein.faa
+00075.faa: /mnt/worksapce/Data/all/Trichoderma guizhouense NJAU 4742_protein.faa
+00076.faa: /mnt/worksapce/Data/all/aspergillus_sclerotiicarbonarius_cbs_121057_protein.faa
+00077.faa: /mnt/worksapce/Data/all/Aspergillus_terreus_NIH2624_protein.faa
+00078.faa: /mnt/worksapce/Data/all/Aspergillus_udagawae_IFM_46973_protein.faa
+00079.faa: /mnt/worksapce/Data/all/aspergillus_versicolor_cbs_583.65_protein.faa
+00080.faa: /mnt/worksapce/Data/all/Byssochlamys_spectabilis_No.5_protein.faa
+00081.faa: /mnt/worksapce/Data/all/Chaetomium_globosum_CBS_148.51_protein.faa
+00082.faa: /mnt/worksapce/Data/all/Chaetothyriales sp. CBS 132003_protein.faa
+00083.faa: /mnt/worksapce/Data/all/Chaetothyriales sp. CBS 135597_protein.faa
+00084.faa: /mnt/worksapce/Data/all/Coccidioides immitis RMSCC 2394_protein.faa
+00085.faa: /mnt/worksapce/Data/all/Colletotrichum_graminicola_M1.001_protein.faa
+00086.faa: /mnt/worksapce/Data/all/Coniochaeta_ligniaria_NRRL_30616_protein.faa
+00087.faa: /mnt/worksapce/Data/all/Cytospora_leucostoma_SXYLt_protein.faa
+00088.faa: /mnt/worksapce/Data/all/Elaphomyces granulatus OSC145934_protein.faa
+00089.faa: /mnt/worksapce/Data/all/endocarpon_pusillum_z07020_protein.faa
+00090.faa: /mnt/worksapce/Data/all/Fungal sp. No.11243_protein.faa
+00091.faa: /mnt/worksapce/Data/all/Fusarium fujikuroi E282_protein.faa
+00092.faa: /mnt/worksapce/Data/all/Metarhizium_majus_ARSEF_297_protein.faa
+00093.faa: /mnt/worksapce/Data/all/Metarhizium_robertsii_ARSEF_2575_protein.faa
+00094.faa: /mnt/worksapce/Data/all/Monosporascus sp. 5C6A_protein.faa
+00095.faa: /mnt/worksapce/Data/all/Monosporascus sp. MG133_protein.faa
+00096.faa: /mnt/worksapce/Data/all/Neofusicoccum_parvum_UCRNP2_protein.faa
+00097.faa: /mnt/worksapce/Data/all/pencillium_arizonense_CBS_141311_protein.faa
+00098.faa: /mnt/worksapce/Data/all/Penicillium coprophilum IBT 31321_protein.faa
+00099.faa: /mnt/worksapce/Data/all/Penicillium expansum CMP-1_protein.faa
+00100.faa: /mnt/worksapce/Data/all/Trichoderma_reesei_QM6a_protein.faa
+00101.faa: /mnt/worksapce/Data/all/Trichoderma_reesei_RUT_C-30_protein.faa
+00102.faa: /mnt/worksapce/Data/all/Valsa mali var. pyri SXYL134_protein.faa
+00103.faa: /mnt/worksapce/Data/all/valsa_malicola_03-1_protein.faa
+00104.faa: /mnt/worksapce/Data/all/Valsa_mali_03-8_protein.faa
+00105.faa: /mnt/worksapce/Data/all/Xylaria longipes IHI A66_protein.faa
