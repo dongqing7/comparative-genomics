@@ -1,11 +1,8 @@
-# comparative-genomics
+# Gene cluster calling
 Python scripts for gene cluster calling from the output of OrthoFinder
 
 Overview
 --------
-
-
-
 
 Software Requirements
 ---------------------
@@ -19,7 +16,7 @@ You should have one file of protein sequences in fasta format for each species t
 
 1. run OrthoFinder.
 
-1. run infer_cluster_syntney_from_OG.py. There 4 input files should be given. 
+1. run infer_cluster_syntney_from_OG.py. There are 4 input files should be given. 
 infer_cluster_syntney_from_OG.py og_group.txt species_map gene_map species_tree
 og_group.txt is the output file of OrthoFinder: Orthogroups/Orthogroups.txt
 species_map file contains pseudo species with true file name. The sample file located in sample/SpeciesIDs.txt 
