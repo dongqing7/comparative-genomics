@@ -1,8 +1,6 @@
 # Gene cluster calling
 Python scripts for gene cluster calling from the output of OrthoFinder
 
-Overview
---------
 
 Software Requirements
 ---------------------
